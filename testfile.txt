@@ -3,3 +3,4 @@ Indigo
 I believe in unicorns.
 I also believe in dragons.
 Pony
+Added wizards to this file.
